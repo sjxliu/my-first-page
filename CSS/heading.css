@@ -1,0 +1,23 @@
+head, h1, h2 { 
+    color: rgb(119, 0, 0);
+    background-color: lightsteelblue;
+    width: auto;
+    border: 10px solid crimson;
+    text-align: center;
+    padding: 0 20px 20px 20px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+body, ul {
+    padding: 1em;
+    color: lightslategray;
+    background-color: #003391;
+    text-align: center;
+    font-size: medium;
+    font-family: 'Urbanist', sans-serif;
+    list-style-position: center;
+    list-style-type: upper-roman;
+
+}
